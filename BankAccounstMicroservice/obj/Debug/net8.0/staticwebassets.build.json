@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oWwUxXIwu4DTvqzYM1ZzbcfwbDoqyfPg8HQDAgT8vbw=",
+  "Source": "BankAccounstMicroservice",
+  "BasePath": "_content/BankAccounstMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

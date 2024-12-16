@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SKmN0wgI7tO9B5P8r4E5svpeyO7iMH/R8SNLdW18+7s=",
+  "Source": "BankClientstMicroservice",
+  "BasePath": "_content/BankClientstMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

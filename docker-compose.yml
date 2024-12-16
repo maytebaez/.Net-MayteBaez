@@ -1,0 +1,24 @@
+services:
+  BankClientsMicroservice:
+    build:
+      context:  ./BankClientstMicroservice
+      dockerfile: Dockerfile
+    image: net-clients-microservice
+    ports:
+      - "5292:80"
+    networks:
+      - microservicios-network
+
+  BankAccounstMicroservice:
+    build:
+      context: ./BankAccounstMicroservice
+      dockerfile: Dockerfile
+    image: net-accounts-microservice
+    ports:
+      - "5000:80"
+    networks:
+      - microservicios-network
+
+networks:
+  microservicios-network:
+    driver: bridge
