@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\bankAccounstMicroservice\\BankAccounstMicroservice.csproj": {}
+    "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\BankAccounstMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\bankAccounstMicroservice\\BankAccounstMicroservice.csproj": {
+    "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\BankAccounstMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\bankAccounstMicroservice\\BankAccounstMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\BankAccounstMicroservice.csproj",
         "projectName": "BankAccounstMicroservice",
-        "projectPath": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\bankAccounstMicroservice\\BankAccounstMicroservice.csproj",
+        "projectPath": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\BankAccounstMicroservice.csproj",
         "packagesPath": "C:\\Users\\mayte.baez_devsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\bankAccounstMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayte.baez_devsu\\AppData\\Roaming\\NuGet\\NuGet.Config",

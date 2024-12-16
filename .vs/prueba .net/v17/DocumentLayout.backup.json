@@ -65,8 +65,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -75,7 +79,7 @@
               "RelativeDocumentMoniker": "BankAccounstMicroservice\\Controllers\\MovementsController.cs",
               "ToolTip": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\Controllers\\MovementsController.cs",
               "RelativeToolTip": "BankAccounstMicroservice\\Controllers\\MovementsController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwBAAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:03:47.386Z",
               "EditorCaption": ""
@@ -90,8 +94,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Models\\Movement.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:02:52.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:02:52.034Z"
             },
             {
               "$type": "Document",
@@ -103,8 +106,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Models\\Dtos\\MovementRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:02:50.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:02:50.542Z"
             },
             {
               "$type": "Document",
@@ -116,8 +118,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:56:06.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:56:06.061Z"
             },
             {
               "$type": "Document",
@@ -129,8 +130,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Repositories\\MovementRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:00:33.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:00:33.962Z"
             },
             {
               "$type": "Document",
@@ -142,8 +142,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:01:00.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:01:00.783Z"
             },
             {
               "$type": "Document",
@@ -155,8 +154,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:54:56.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:54:56.78Z"
             },
             {
               "$type": "Document",
@@ -168,8 +166,7 @@
               "RelativeToolTip": "BankClientstMicroservice\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wBkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:59:37.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:59:37.476Z"
             },
             {
               "$type": "Document",
@@ -181,12 +178,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:59:11.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2024-12-16T13:59:11.948Z"
             },
             {
               "$type": "Document",
@@ -198,8 +190,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:55:28.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:55:28.459Z"
             },
             {
               "$type": "Document",
@@ -211,8 +202,7 @@
               "RelativeToolTip": "BankAccounstMicroservice\\Models\\Dtos\\AccountRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:55:26.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:55:26.53Z"
             },
             {
               "$type": "Document",
@@ -224,8 +214,7 @@
               "RelativeToolTip": "BankClientstMicroservice\\Controllers\\ClientsController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAA3wDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:40:24.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:40:24.946Z"
             },
             {
               "$type": "Document",
@@ -237,8 +226,7 @@
               "RelativeToolTip": "BankClientsMicroserviceTest\\ClientsControllerTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T13:40:19.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:40:19.194Z"
             },
             {
               "$type": "Document",
@@ -250,8 +238,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAALwUAAAAAAAAAAAawMgUAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-16T13:33:11.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T13:33:11.139Z"
             }
           ]
         }

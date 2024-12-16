@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4WAAWx5Pjo=",
+  "dgSpecHash": "g0hNyI+15yU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\bankAccounstMicroservice\\BankAccounstMicroservice.csproj",
+  "projectFilePath": "C:\\Users\\mayte.baez_devsu\\Documents\\CURSOS\\prueba .net\\BankAccounstMicroservice\\BankAccounstMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mayte.baez_devsu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mayte.baez_devsu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

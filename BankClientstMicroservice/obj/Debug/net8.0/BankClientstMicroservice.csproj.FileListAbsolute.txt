@@ -88,3 +88,5 @@ C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankClientstMicroservice\
 C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankClientstMicroservice\obj\Debug\net8.0\BankClientstMicroservice.genruntimeconfig.cache
 C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankClientstMicroservice\obj\Debug\net8.0\ref\BankClientstMicroservice.dll
 C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankClientstMicroservice\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankClientstMicroservice\obj\Debug\net8.0\BankClientstMicroservice.sourcelink.json
+C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankClientstMicroservice\bin\Debug\net8.0\Data\Scripts\BaseDatos.sql

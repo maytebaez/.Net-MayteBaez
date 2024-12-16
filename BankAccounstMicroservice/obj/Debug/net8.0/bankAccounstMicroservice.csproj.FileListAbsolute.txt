@@ -170,3 +170,5 @@ C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\bankAccounstMicroservice\
 C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\bankAccounstMicroservice\obj\Debug\net8.0\BankAccounstMicroservice.pdb
 C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\bankAccounstMicroservice\obj\Debug\net8.0\BankAccounstMicroservice.genruntimeconfig.cache
 C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\bankAccounstMicroservice\obj\Debug\net8.0\ref\BankAccounstMicroservice.dll
+C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankAccounstMicroservice\obj\Debug\net8.0\BankAccounstMicroservice.sourcelink.json
+C:\Users\mayte.baez_devsu\Documents\CURSOS\prueba .net\BankAccounstMicroservice\bin\Debug\net8.0\Data\Scripts\BaseDatos.sql
